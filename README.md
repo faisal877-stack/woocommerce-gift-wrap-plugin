@@ -31,13 +31,11 @@ A custom WooCommerce plugin that adds a **gift wrap option** on the checkout pag
 ## 📸 Screenshots
 
 ### Checkout Page
-![Checkout](screenshots/checkout.png)
+![Checkout](screenshots/gift_wrap_form.png)
+![Checkout](screenshots/gift_wrap_fee.png)
 
 ### Admin Order View
-![Admin](screenshots/admin.png)
-
-### Thank You Page
-![Thank You](screenshots/thankyou.png)
+![Admin](screenshots/order_details.png)
 
 ---
 
